@@ -11,6 +11,8 @@ public class OrganizationModuleTest {
 	@Test
 	public void createOrganizationAndDeleteTest() {
 		System.out.println("createOrganizationAndDeleteTest executed");
+		System.out.println("createOrganizationAndDeleteTest executed");
+		
 	}
 		}
 
