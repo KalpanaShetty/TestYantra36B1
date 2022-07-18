@@ -6,6 +6,7 @@ public class OrganizationModuleTest {
 	@Test
 	public void createOrgTest() {
 		System.out.println("createOrgTest executed");
+		System.out.println("git practise");
 	}
 	@Test
 	public void createOrganizationAndDeleteTest() {
