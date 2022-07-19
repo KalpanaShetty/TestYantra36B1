@@ -10,5 +10,8 @@ public class EditContactTest {
 	@Test
 	public void deleteEditTest() {
 		System.out.println("deleteEditTest executed");
+		System.out.println("Lohith m patil");
+		System.out.println("Lohith m patil");
+		
 	}
 }

@@ -11,4 +11,9 @@ public void createContactTest() {
 public void createOrganizationTest() {
 	System.out.println("createOrganizationTest executed");
 }
+@Test
+public void createOrganizationANdContact()
+{
+	System.out.println("both created");
+}
 }
